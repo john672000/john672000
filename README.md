@@ -1,5 +1,5 @@
-## Hi there 👋
-### Hi there, I'm [Your Name] 👋
+### Welcome!!!!!
+### Hi there, I'm John Emmanuel 👋
 
 🚀 **Software Engineer | AI Enthusiast | Full Stack Developer**
 
