@@ -39,9 +39,9 @@ I'm passionate about building intelligent systems and seamless user experiences.
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/john-emmanuelraj/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-emmanuelraj/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/john672000)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://yourportfolio.com](https://john672000.github.io/JohnE_Portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://john672000.github.io/JohnE_Portfolio/)
 
 💡 *Always learning, always building!* 🚀
 
