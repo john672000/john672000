@@ -1,9 +1,9 @@
 ### Welcome!!!!!
-### Hi there, I'm John Emmanuel 👋
+### I'm John Emmanuel 👋
 
 🚀 **Software Engineer | AI Enthusiast | Full Stack Developer**
 
-I'm passionate about building intelligent systems and seamless user experiences. I specialize in **Flutter, .NET Core, Python (FastAPI), Machine Learning (BERT, NER), and React**. My projects often revolve around **AI-driven applications, speech-to-text processing, and structured entity extraction**.
+I'm passionate about building intelligent systems and seamless user experiences. I specialize in **Flutter, .NET Core, Python (FastAPI), Machine Learning (BERT, NER), and React**. My projects often revolve around **AI-driven applications which dive into problem solving and easing of the already available ways to slove a problem**.
 
 ---
 
@@ -32,17 +32,16 @@ I'm passionate about building intelligent systems and seamless user experiences.
 
 ### 🎯 What I Work On
 ✅ AI-Powered Applications (NER, Summarization, Classification)  
-✅ Full-Stack Development (Flutter, React, .NET Core, FastAPI)  
-✅ Speech-to-Text Processing  
+✅ Full-Stack Development (Flutter, React, .NET Core, FastAPI)    
 ✅ Backend API Development  
 ✅ Cloud & Deployment (Docker, AWS)
 
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/john-emmanuelraj/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/john672000)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://yourportfolio.com](https://john672000.github.io/JohnE_Portfolio/))
 
 💡 *Always learning, always building!* 🚀
 
