@@ -3,7 +3,7 @@
 
 🚀 **Software Engineer | AI Enthusiast | Full Stack Developer**
 
-I'm passionate about building intelligent systems and seamless user experiences. I specialize in **Flutter, .NET Core, Python (FastAPI), Machine Learning (BERT, NER), and React**. My projects often revolve around **AI-driven applications which dive into problem solving and easing of the already available ways to slove a problem**.
+I'm passionate about building intelligent systems and seamless user experiences. I specialize in **Flutter, .NET Core, Python (FastAPI), Machine Learning (BERT, NER), and React**. My projects often revolve around **AI-driven applications which dive into problem solving and easing the way we try to implement it**.
 
 ---
 
