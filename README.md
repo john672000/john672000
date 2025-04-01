@@ -1,3 +1,5 @@
+💡 *Always learning, always building!* 🚀
+
 ### Welcome!!!!!
 ### I'm John Emmanuel 👋
 
