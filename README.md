@@ -1,6 +1,6 @@
 
 ## About Me
-Visit - [🌐 Portfolio](https://john672000.github.io/JohnE_Portfolio/#/)
+Visit - [🌐John's Portfolio](https://john672000.github.io/JohnE_Portfolio/#/)
 - 🌱 I’m currently learning new technologies and improving my skills in software development.
 - 💻 I have a passion for open-source projects and collaborative coding.
 - 🎯 My goal is to contribute to impactful projects that make a difference in people's lives.
