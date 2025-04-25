@@ -20,7 +20,7 @@ Visit - [🌐 Portfolio](https://john672000.github.io/JohnE_Portfolio/#/)
 ## 🌐 Let's Connect
 - 📫 Email: [tjemmanuelraj@gmail.com](mailto:tjemmanuelraj@gmail.com)
 - 💼 LinkedIn: [John Emmanuel ](https://www.linkedin.com/in/john-emmanuelraj/)
-- 🌐 Portfolio: [My Portfolio Website](https://john672000.github.io/JohnE_Portfolio/#/)
+- 🌐 Portfolio: [John's Portfolio](https://john672000.github.io/JohnE_Portfolio/#/)
 
 ## 🏆 Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=john672000&theme=radical&margin-w=15&margin-h=15)
