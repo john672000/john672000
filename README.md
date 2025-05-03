@@ -1,10 +1,10 @@
 
 ## About Me
-Visit - [🌐John's Portfolio](https://john672000.github.io/JohnE_Portfolio/#/)
+Visit - [🌐My Portfolio](https://john672000.github.io/JohnE_Portfolio/#/)
 - 🌱 I’m currently learning new technologies and improving my skills in software development.
 - 💻 I have a passion for open-source projects and collaborative coding.
 - 🎯 My goal is to contribute to impactful projects that make a difference in people's lives.
-- 🌍 Based in [Your Location].
+- 🌍 Based in United States of America.
 
 ## 🔧 Technologies & Tools
 ![Languages](https://skillicons.dev/icons?i=js,python,java&theme=dark)
@@ -20,7 +20,6 @@ Visit - [🌐John's Portfolio](https://john672000.github.io/JohnE_Portfolio/#/)
 ## 🌐 Let's Connect
 - 📫 Email: [tjemmanuelraj@gmail.com](mailto:tjemmanuelraj@gmail.com)
 - 💼 LinkedIn: [John Emmanuel ](https://www.linkedin.com/in/john-emmanuelraj/)
-- 🌐 Portfolio: [John's Portfolio](https://john672000.github.io/JohnE_Portfolio/#/)
 
 ## 🏆 Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=john672000&theme=radical&margin-w=15&margin-h=15)
